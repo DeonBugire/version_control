@@ -89,3 +89,4 @@ git clone <ссылка>
 ```sh
 git remote
 ```
+В GitHub на странице репозитория выбираем ветку **updatereadme** и жмем кнопку **Compare & pull request**
